@@ -24,7 +24,7 @@
                 <br><br>
                 <p> Answer: ${msgAreaRect}</p>
                 <label for="resultsCheck">(Lab 1) To output to Results page Check Here:</label>
-                <input id="checkBox" type="checkbox" id="resultsCheck" name="resultsCheck">.
+                <input id="checkBox" type="checkbox" id="resultsCheck" name="resultsCheck">
 
             </form><br><br>
             <h2>Lab 3</h2>
