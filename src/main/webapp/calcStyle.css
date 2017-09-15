@@ -1,0 +1,21 @@
+input{
+    text-align: center;
+    font-family: "Input Fonts", Times New Roman, serif;
+    width: 110px;
+}
+body{
+    
+}
+html{
+    background-color: #F9F5F4;
+}
+footer{
+    position: relative;
+    bottom: 0;
+}
+#wrapper{
+    border-radius: 10px 10px;
+    border-color: black;
+    padding:5px;    
+    height: 100%;
+}
